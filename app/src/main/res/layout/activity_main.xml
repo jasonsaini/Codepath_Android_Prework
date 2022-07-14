@@ -34,7 +34,7 @@
         android:src="@drawable/golden_retriever_png_photo" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/helloButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="16dp"
