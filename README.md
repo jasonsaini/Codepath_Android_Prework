@@ -10,9 +10,9 @@ Time spent: **1.5** hours spent in total
 
 The following **required** functionality is completed:
 
-* [ X ] Image and introductory message displayed on screen
-* [ X ] Button displayed on screen
-* [ X ] Toast with message appears when button is pressed 
+* [x] Image and introductory message displayed on screen
+* [x] Button displayed on screen
+* [x] Toast with message appears when button is pressed 
 
 The following **optional** features are implemented:
 
